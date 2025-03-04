@@ -1,6 +1,6 @@
 # Hugo Health
 
-![Hugo Health Logo](https://hugo.health/wp-content/uploads/2022/05/hugo-logo-1.svg)
+![Hugo Health Logo](https://github.com/hugohealth/.github/tree/main/images/logo.png)
 
 ## Transforming Healthcare Through Patient-Centered Data
 
@@ -47,4 +47,4 @@ To create a patient-centered health data ecosystem that accelerates medical rese
 
 ---
 
-*Hugo Health: Putting patients at the center of healthcare data.*
+_Hugo Health: Putting patients at the center of healthcare data._
