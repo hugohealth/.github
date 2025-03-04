@@ -1,7 +1,6 @@
 # Hugo Health
 
-![Hugo Health Logo](https://github.com/hugohealth/.github/tree/main/images/logo.png)
-
+<img src="https://github.com/hugohealth/.github/blob/b408f64beb664e2b9d906577f85668fa2d8cdb23/images/logo.png" />
 ## Transforming Healthcare Through Patient-Centered Data
 
 At Hugo Health, we're revolutionizing the way healthcare data is collected, shared, and utilized. Our platform empowers patients to take control of their health information while enabling researchers and healthcare providers to access critical data for advancing medical knowledge and improving care.
